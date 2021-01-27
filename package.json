@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
-    "gitsuman":"git add . && git commit -m"
+    "gitsuman":"git add . && git commit -m hello-new && git push origin master"
   },
   "keywords": [],
   "author": "",
